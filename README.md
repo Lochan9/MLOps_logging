@@ -1,7 +1,5 @@
 # 🍷 Wine Dataset Logging Lab
 
-**Student:** Lochan | **Course:** IE7305 MLOps | **Institution:** Northeastern University
-
 ## 📋 Overview
 
 Python logging implementation with Wine dataset ML pipeline using RandomForestClassifier. Demonstrates all lab logging concepts in a production-ready workflow.
